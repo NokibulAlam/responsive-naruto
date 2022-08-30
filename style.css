@@ -1,0 +1,62 @@
+body{
+    background-color: #F7F7F7;
+}
+
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 900;
+}
+
+
+/* Globally Styling */
+h2{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 30px;
+}
+
+.power ul{
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+#img-naruto{
+    width: auto;
+    height: 450px;
+    margin-left: 20%;
+}
+
+.intro{
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+/* Contact Div Start */
+input{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+input:focus{
+    outline-width: 0;
+}
+
+label{
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    background-color: #ece144;
+    color: #2a2a38;
+}
+/* Contact Div End */
